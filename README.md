@@ -1,5 +1,5 @@
 <p>
-    <img src="/purplematrix.gif" width="750" height="120" align="center" />
+    <img src="/purplematrix.gif" width="100%" height="120" align="center" />
 </p>
 
 <h1 align="center">Welcome to my GitHub! I'm Lauren :)</h1>
