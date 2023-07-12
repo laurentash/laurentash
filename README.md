@@ -1,3 +1,4 @@
+[![MasterHead](https://i.gifer.com/3HeZ.gif)](https://linkedin.com/in/lauren-shockley)
 <h1 align="center">Welcome to my GitHub! I'm Lauren :)</h1>
 <h3 align="center">A cybersecurity student and competitive learner</h3>
 <p align="center">Currently learning more about programming and expanding my knowledgebase within the field to aid my fururepositions and acive interests. </p>
