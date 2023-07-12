@@ -1,4 +1,4 @@
-#[Banner](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHp4ZG90d25lcWt6Ynk5MmJrczNsMDB1ZXdkb3FtNm0zczdqZXVrdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4knozU8q9AXvpod9qy/giphy.gif)
+#[Banner](purplematrix.gif)
 
 <h1 align="center">Welcome to my GitHub! I'm Lauren :)</h1>
 <h3 align="center">A cybersecurity student and competitive learner</h3>
