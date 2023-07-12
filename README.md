@@ -1,7 +1,7 @@
 <h1 align="center">Welcome to my GitHub! I'm lauren :)</h1>
 <h3 align="center">A a cybersecurity student and competitive learner</h3>
 
-Currently learning more about programming and expanding my knowledgebase within the field to aid my fururepositions and acive interests. 
+<p align="center">Currently learning more about programming and expanding my knowledgebase within the field to aid my fururepositions and acive interests. </p>
 
 <h3 align="left">Socials:</h3>
 <p align="left">
