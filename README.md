@@ -4,6 +4,7 @@
 <p align="center">Currently learning more about programming and expanding my knowledgebase within the field to aid my fururepositions and acive interests. </p>
 📝 Actively working on: 
 <p align="center">
+
 - Locally hosted Laravel PHP & Tailwind personal website (laurenshockley.com coming soon!)
 
 - Linux Ubuntu Server security for Apache web hosting 
