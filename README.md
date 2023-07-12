@@ -1,4 +1,4 @@
-#[Banner](https://raw.githubusercontent.com/laurentash/laurentash/main/README.md/purplematrix.gif)
+#[Banner](/purplematrix.gif)
 
 <h1 align="center">Welcome to my GitHub! I'm Lauren :)</h1>
 <h3 align="center">A cybersecurity student and competitive learner</h3>
