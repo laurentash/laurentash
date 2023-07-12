@@ -3,9 +3,13 @@
 
 <p align="center">Currently learning more about programming and expanding my knowledgebase within the field to aid my fururepositions and acive interests. </p>
 📝 Actively working on: 
+<p align="center">
     - Locally hosted Laravel PHP & Tailwind personal website (laurenshockley.com coming soon!)
+
     - Linux Ubuntu Server security for Apache web hosting 
+
     - Python based connection speed test
+</p>
 
 
 <p align="left"> <a href="https://twitter.com/laurena_exe" target="blank"><img src="https://img.shields.io/twitter/follow/laurena_exe?logo=twitter&style=for-the-badge" alt="laurena_exe" /></a> </p>
