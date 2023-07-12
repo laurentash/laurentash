@@ -1,4 +1,6 @@
-#[Banner](/purplematrix.gif)
+<p>
+    <img src="/purplematrix.gif" width="220" height="240" />
+</p>
 
 <h1 align="center">Welcome to my GitHub! I'm Lauren :)</h1>
 <h3 align="center">A cybersecurity student and competitive learner</h3>
