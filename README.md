@@ -1,10 +1,12 @@
 <h1 align="center">Welcome to my GitHub! I'm lauren :)</h1>
-<h3 align="center">A a cybersecurity student and competitive learner</h3>
+<h3 align="center">A cybersecurity student and competitive learner</h3>
 
 <p align="center">Currently learning more about programming and expanding my knowledgebase within the field to aid my fururepositions and acive interests. </p>
-📝 I regularly write articles on [icon](icon)
+📝 Actively working on: 
+    - Locally hosted Laravel PHP & Tailwind personal website (laurenshockley.com coming soon!)
+    - Linux Ubuntu Server security for Apache web hosting 
+    - Python based connection speed test
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=laurentash" alt="laurentash" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/laurena_exe" target="blank"><img src="https://img.shields.io/twitter/follow/laurena_exe?logo=twitter&style=for-the-badge" alt="laurena_exe" /></a> </p>
 
