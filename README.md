@@ -4,9 +4,9 @@
 
 <h1 align="center">Welcome to my GitHub! I'm Lauren :)</h1>
 <h3 align="center">A cybersecurity student and competitive learner</h3>
-<p align="center">Currently learning more about programming and expanding my knowledgebase within the field to aid my fururepositions and acive interests. </p>
+<p align="center">Currently learning more about different languages and expanding my knowledgebase within the field overall to aid my future positions and interests! </p>
 
-📝 Projects I'm actively working on: 
+📝 Projects I'm working on: 
 <p align="center">
 
 - Locally hosted Laravel PHP & Tailwind personal website (laurenshockley.com coming soon!)
