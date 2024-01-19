@@ -9,13 +9,17 @@
 📝 Projects I'm working on: 
 <p align="center">
 
-- Locally hosted Laravel PHP & Tailwind personal website (laurenshockley.com coming soon!)
+- Python keylogger program
 
-- Linux Ubuntu Server security for Apache web hosting 
+</p>
+
+📝 Projects I've completed: 
+<p align="center">
+
+- Laravel 10 PHP & Tailwind personal website  
 
 - Python based connection speed test
 </p>
-
 
 <h3 align="left">Follow Me!</h3>
 <a href="https://twitter.com/laurena_exe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="laurena_exe" height="30" width="40" /></a>
